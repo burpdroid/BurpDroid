@@ -4,5 +4,5 @@ BurpDroid is one of the most popular web application debugging tool for Android,
 
 
 
-[<img  src="http://clipart-library.com/images_k/google-play-icon-transparent/google-play-icon-transparent-2.png" width="20%">](https://play.google.com/store/apps/details?id=com.burpdroid)
+[<img  src="https://w7.pngwing.com/pngs/366/351/png-transparent-google-play-store-logo-google-play-app-store-android-wallets-text-label-logo-thumbnail.png" width="20%">](https://play.google.com/store/apps/details?id=com.burpdroid)
 
